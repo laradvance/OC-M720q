@@ -241,6 +241,8 @@
 				<data>
 				EQAAAA==
 				</data>
+                    <key>alctsel</key>
+                    <data>AQAAAA==</data>
 				<key>model</key>
 				<string>Cannon Lake PCH cAVS</string>
 			</dict>
