@@ -1,6 +1,6 @@
 # OC-M720q
 Opencore for lenovo m720q
-Core i5 8700T
+Core i5 8400T
 BCM943224PCIEBT2 Wifi Card
 Big Sur 11.2.3
 
@@ -8,7 +8,7 @@ Big Sur 11.2.3
 Enable HiDPI:
 1. bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
 
-Optimize power management using CPUFriend
+Optimize power management for i5 8400T using CPUFriend
 
 1. Download [ssdtprgen](https://github.com/ibash/ssdtPRGen.sh/archive/coffee_lake.zip)
 2. Unzip and copy the files to ~/Library/ssdtPRGen
